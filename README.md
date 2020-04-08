@@ -46,7 +46,7 @@ Training for another 10 hours & another 5000 episodes allowed the trained AI Age
 * Comments for clarity
 * Minor fix which crops more of the image vs the base repo
 
-## Installation Requirements Mac OS w/ Homebrew
+## Installation Requirements
 
 ### Mac OS w/ Homebrew
 * You'll need to run the code with Python 3.7 - I recommend the use of `conda` to manage python environments
