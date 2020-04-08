@@ -46,11 +46,14 @@ Training for another 10 hours & another 5000 episodes allowed the trained AI Age
 * Comments for clarity
 * Minor fix which crops more of the image vs the base repo
 
-### Installation Requirements
-The instructions below are for Mac OS & assume you have Homebrew installed.
+## Installation Requirements Mac OS w/ Homebrew
 
-* You'll need to run the code with Python 2.7 - I recommend the use of `conda` to manage python environments
+### Mac OS w/ Homebrew
+* You'll need to run the code with Python 3.7 - I recommend the use of `conda` to manage python environments
 * Install Open AI Gym `brew install gym`
 * Install Cmake `brew install cmake`
 * Install ffmpeg `brew install ffmpeg` - Required for monitoring / videos
+### Ubuntu 
 
+* Install Open AI Gym `pip3 install gym` or 'pip install gym[atari]
+* Install ffmpeg `sudo apt install ffmpeg` - Required for monitoring / videos
